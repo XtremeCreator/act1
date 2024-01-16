@@ -7,7 +7,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: linear-gradient(178deg, #482feb, #9824ff);
+    background: linear-gradient(178deg, #f4f4f4, #9824ff);
     height: 150vh;
 }
 .clearfix{clear: both;}
